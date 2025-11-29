@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog啊啊啊啊啊啊"
+title: "huanying"
 date: 2025-11-30
 ---
